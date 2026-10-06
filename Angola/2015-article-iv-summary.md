@@ -4,29 +4,9 @@
 
 2007年には石油収入が急増し、「このお金をどのくらい速く使うべきか」が問題だった。ところが2015年には、Angolaの原油価格が2014年の1バレル約101ドルから約53ドルへほぼ半減した。
 
-石油は輸出の95%以上、政府収入のおよそ75%を占めていた。そのため油価下落は石油会社だけの問題ではない。
+石油は輸出の95%以上、政府収入のおよそ75%を占めていた。そのため油価下落は石油会社だけの問題ではない。原油価格が下がると、石油輸出額が減り、政府の石油収入も落ち込み、国内に入ってくる外貨も減る。その結果、財政、為替、物価、銀行、公共投資が同時に影響を受けた。
 
-\[
-\text{oil price}\downarrow
-\rightarrow
-\text{export revenue}\downarrow
-+
-\text{government revenue}\downarrow
-+
-\text{foreign exchange supply}\downarrow
-\]
-
-となり、財政、為替、物価、銀行、公共投資が一度に影響を受けた。
-
-2015 Article IVの中心問題は、
-
-\[
-\boxed{
-\text{低い石油収入に、経済を壊さずどう適応するか}
-}
-\]
-
-である。
+2015 Article IVの中心問題は、低い石油収入に経済を壊しすぎずどう適応するか、ということである。
 
 ## 石油以外の経済まで急減速した
 
@@ -45,21 +25,7 @@ oil sectorはmaintenance終了後の生産回復で6.8%成長する一方、non-
 
 へ依存していたからである。
 
-したがって、
-
-\[
-\text{oil shock}
-\rightarrow
-\text{public investment cut}
-+
-\text{FX shortage}
-+
-\text{private demand decline}
-\rightarrow
-\text{construction・industry・services slowdown}
-\]
-
-という波及が起きた。
+したがって、油価下落によって政府収入が減ると公共投資が削られ、外貨不足によって輸入が難しくなり、同時に民間需要も弱くなった。その影響が建設、製造業、サービス業へ波及し、非石油部門全体の成長を押し下げた。
 
 「非石油部門が存在する」ことと、「石油ショックから独立している」ことは違う。
 
@@ -71,12 +37,7 @@ oil sectorはmaintenance終了後の生産回復で6.8%成長する一方、non-
 
 しかし問題は何を削ったかである。
 
-2014年から2015 revised budgetにかけて、
-
-- current expenditureはGDP比28.8%から24.9%
-- capital expenditureは12.2%から5.5%
-
-へ低下した。
+2014年から2015 revised budgetにかけて、current expenditureはGDP比28.8%から24.9%へ低下し、capital expenditureは12.2%から5.5%へ低下した。
 
 つまり公共投資の削減が非常に大きかった。
 
@@ -94,33 +55,7 @@ oil sectorはmaintenance終了後の生産回復で6.8%成長する一方、non-
 
 なぜか。
 
-財政赤字だけではない。
-
-kwanzaが下落すると、ドル建て債務のkwanza換算額が増える。またoil price下落でnominal GDPも弱くなる。
-
-つまり、
-
-\[
-\text{depreciation}
-\rightarrow
-\text{foreign-currency debt in local currency}\uparrow
-\]
-
-と、
-
-\[
-\text{oil price decline}
-\rightarrow
-GDP\downarrow
-\]
-
-が同時に起きるため、
-
-\[
-\frac{\text{public debt}}{GDP}
-\]
-
-が急上昇する。
+財政赤字だけではない。kwanzaが下落すると、ドル建て債務をkwanzaに換算した金額が増える。さらに油価下落によって名目GDPも弱くなる。つまり、債務残高の国内通貨換算額が増える一方で、その債務を支えるGDPの規模も小さくなるため、public debt-to-GDP ratioが急上昇する。
 
 これはcommodity exporterで外貨建て債務が多い場合の重要なbalance-sheet effectである。
 
@@ -148,19 +83,7 @@ IMF staffは、この巨大なparallel premiumが残っている限り、officia
 
 ## IMFはなぜさらにkwanzaを下げるよう求めたのか
 
-staffの提案は、
-
-\[
-\text{further depreciation}
-+
-\text{reserve use}
-+
-\text{monetary tightening}
-+
-\text{fiscal adjustment}
-\]
-
-だった。
+staffの提案は、kwanzaをさらに調整させること、外貨準備を適度に使うこと、金融政策を引き締めること、そして財政調整を続けることを組み合わせた政策パッケージだった。
 
 reserveだけでofficial exchange rateを守れば、外貨準備が減り続ける。
 
@@ -168,19 +91,7 @@ reserveだけでofficial exchange rateを守れば、外貨準備が減り続け
 
 IMFの推計では、2011–15年について1%のNEER下落はlong runでCPIを約0.34%上昇させる。
 
-つまり、
-
-\[
-\text{devaluation}
-\rightarrow
-\text{import prices}\uparrow
-\rightarrow
-\text{inflation}\uparrow
-\]
-
-となる。
-
-そのため為替だけを動かすのではなく、bank liquidityを減らし、monetary policyを締め、政府需要も抑える必要があるというのがstaffの論理だった。
+つまり、kwanzaを切り下げると輸入品の国内価格が上昇し、それが消費者物価へ波及する。そのため為替だけを動かすのではなく、bank liquidityを減らし、monetary policyを締め、政府需要も抑える必要があるというのがstaffの論理だった。
 
 ## 銀行にもoil shockが伝わった
 
@@ -194,13 +105,7 @@ IMFの推計では、2011–15年について1%のNEER下落はlong runでCPIを
 
 IMF staffは50% devaluationの場合、banking-system capitalへのnegative impactをGDP比約4%と試算した。
 
-したがって、
-
-\[
-\text{exchange-rate adjustment}
-\]
-
-は外貨市場を正常化するために必要だが、同時にbank recapitalizationを進めなければならなかった。
+したがって、為替レートの調整は外貨市場を正常化するために必要だったが、それによって借り手や銀行のバランスシートが傷む可能性があるため、同時にbank recapitalizationを進めなければならなかった。
 
 ## fuel subsidy改革は「補助金を切れば終わり」ではない
 
@@ -221,15 +126,7 @@ IMF staffは50% devaluationの場合、banking-system capitalへのnegative impa
 
 特にkeroseneは貧困層が多く利用しており、bottom 20%がkerosene subsidyの51%を受け取っていた。IMFの推計では、fuel subsidiesを完全撤廃するとbottom 20%のreal incomeは約9%低下する。
 
-だからstaffが提案したのは単純なsubsidy abolitionではなく、
-
-\[
-\text{universal price subsidy}
-\rightarrow
-\text{targeted cash transfer}
-\]
-
-への置換だった。
+だからstaffが提案したのは単純なsubsidy abolitionではなく、すべての消費者に燃料価格を安く提供する方式を縮小し、その代わりに低所得世帯へ直接現金を給付するtargeted cash transferへ移行することだった。
 
 政府はCartão Kikuiaというcash-transfer programを拡張していた。
 
@@ -285,35 +182,11 @@ oil priceが2016年にさらに半減して26.5ドルになるscenarioでは、d
 
 real GDP growth shockや30% real depreciationでもdebt dynamicsは悪化する。
 
-つまり、
-
-\[
-\boxed{
-\text{sustainable}
-\neq
-\text{shockに強い}
-}
-\]
-
-ということである。
+つまり、baselineの下で債務が持続可能と評価されることは、Angolaの債務が大きなショックに対して強いことを意味しない。
 
 ## 2015年のAngolaを一言で表すと
 
-2007年の問題は、
-
-\[
-\text{石油収入が増えたとき、どれだけ使うか}
-\]
-
-だった。
-
-2015年の問題は、
-
-\[
-\text{石油収入が消えたとき、どれだけ速く調整できるか}
-\]
-
-になった。
+2007年の問題は、石油収入が増えたときにその収入をどの程度の速度で使うかだった。2015年の問題は逆に、石油収入が急減したときにどの程度の速度で財政、為替、金融を調整できるかになった。
 
 そして2015 Article IVが示したのは、Angolaのoil dependenceが単に「輸出の多くが石油」という意味ではなかったことである。
 
@@ -330,14 +203,4 @@ real GDP growth shockや30% real depreciationでもdebt dynamicsは悪化する�
 
 したがってoil price shockは、経済全体のshockになった。
 
-この文書の核心は、
-
-\[
-\boxed{
-\text{oil revenue volatilityからnon-oil economyを本当に切り離せるか}
-}
-\]
-
-にある。
-
-2015年時点では、そのdiversificationはまだ十分ではなかった。
+この文書の核心は、石油収入の大きな変動から非石油経済を本当に切り離せるか、という点にある。2015年時点では、そのdiversificationはまだ十分ではなかった。
