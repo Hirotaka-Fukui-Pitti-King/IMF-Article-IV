@@ -617,7 +617,7 @@ BNA accountingも不十分だった。
 
 ---
 
-## 40. 1995 → 2007 → 2015 → 2016 → 2018 → 2022 → 2023 → 2024 → 2026
+## 40. 1995年から2026年までの連続性
 
 ### 1995
 内戦末期に、war economyからpeace economyへ移り、hyperinflation、fiscal dominance、external arrears、oil dependence、institutional breakdownを同時に解消できるか。
