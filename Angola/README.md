@@ -24,6 +24,17 @@ IMF Staff Country Report No. 97/112, *Angola—Recent Economic Developments*, 19
 
 この文書はArticle IV Staff Reportそのものではなく、periodic consultationの背景資料として作成されたRecent Economic Developmentsである。1996年半ば以降の急速なdisinflation、その背後にある“monetary equation”、central-bank financingの抑制とdomestic arrearsの増加、trade and FX controls、poverty、diamond-sector reformを詳しく扱う。1995年版がwar economyのcollapseを記録したのに対し、1997年版はstabilizationの持続可能性と質を問うhistorical documentとして位置づける。
 
+## 1999
+
+- [詳細解説](./1999-statistical-annex-detailed.md)
+- [要点をまとめた日本語記事](./1999-statistical-annex-summary.md)
+
+### 原資料
+
+IMF Staff Country Report No. 99/25, *Angola: Statistical Annex*, April 1999.
+
+この文書はArticle IV Staff ReportやRecent Economic Developmentsではなく、1993–97年のnational accounts、oil・diamond・manufacturing production、prices、exchange rate、balance of payments、reserves、monetary survey、government financeなどをtablesで記録したStatistical Annexである。最後には1998年12月31日時点のtax systemも収録される。1997年までのdisinflationとgrowth recoveryが進む一方、large fiscal deficits、external arrears、thin reserves、exchange-rate gap、defense-heavy spending、weak expenditure recordingが残っていたことを数量的に確認する資料として位置づける。
+
 ## 2007
 
 - [詳細解説](./2007-article-iv-detailed.md)
@@ -112,10 +123,11 @@ IMF Country Report No. 26/94, *Angola: 2026 Article IV Consultation—Press Rele
 
 2026年は、oil production・oil revenuesの低下をtemporary shockではなくstructural trendとして捉え、Angolaがlower-oil economyへどうadjustするかを扱う。fiscal consolidationとFSLのcredibility、market-clearing rateへ向けたexchange-rate adjustment、tight monetary policy、2025 FSAP、sovereign-bank nexus、fuel subsidy reform、Sonangolとのquasi-fiscal relationship、financial inclusion、Lobito Corridorが中心テーマである。
 
-## 1995・1997・2007・2015・2016・2018・2022・2023・2024・2026を通じた読み方
+## 1995・1997・1999・2007・2015・2016・2018・2022・2023・2024・2026を通じた読み方
 
 - **1995:** Lusaka Protocolで和平の可能性が生まれた内戦末期に、war economyからpeace economyへ移り、hyperinflation、fiscal dominance、external arrears、oil dependence、institutional breakdownを同時に解消できるか。
 - **1997:** 急速なdisinflationを実現した一方、underlying fiscal imbalanceを解消できたのか、それともcentral-bank financingをdomestic arrearsとadministrative controlsへ置き換えただけなのか。
+- **1999:** 1997年までのdataから、growthとdisinflationの進展に対して、large fiscal deficits、external arrears、thin reserves、FX gap、defense-heavy spending、weak expenditure recordingがどこまで残っていたかを数量的に確認する。
 - **2007:** 石油収入が急増する中で、復興投資をどの速度で拡大するか。
 - **2015:** 石油収入が急減した後、財政・為替・外貨準備をどう調整するか。
 - **2016:** 大幅な調整をすでに行った後、growthを傷つけすぎずに残存するmacro imbalanceをどう解消するか。
@@ -125,4 +137,4 @@ IMF Country Report No. 26/94, *Angola: 2026 Article IV Consultation—Press Rele
 - **2024:** shockからgrowthが回復したときに、再びpolitical cycleとcapital-spending expansionへ戻らず、fiscal buffers、public-investment efficiency、non-oil revenue、private-sector-led diversificationを積み上げられるか。
 - **2026:** oil revenue declineをstructuralな前提として受け入れ、fiscal system、exchange rate、financial system、private sectorをlower-oil equilibriumへadjustできるか。
 
-十の文書を通じてみると、Angolaのoil dependenceは単なるresource endowmentではなく、内戦によるnon-oil productive capacityとstate capacityの崩壊の中で形成されたことが分かる。1997年版はさらに、inflationを下げることとunderlying fiscal problemを解決することは別であることを示す。その後の中心問題は、oil revenue volatilityへの短期対応から、oil依存そのものを減らす制度・産業・金融構造の転換へAngolaが移行できるかである。
+十一の文書を通じてみると、Angolaのoil dependenceは単なるresource endowmentではなく、内戦によるnon-oil productive capacityとstate capacityの崩壊の中で形成されたことが分かる。1997年版はinflationを下げることとunderlying fiscal problemを解決することは別であることを示し、1999 Statistical Annexはその後もfiscal institutionsとexternal financingのnormalizationが遅れていたことを数字で確認する。その後の中心問題は、oil revenue volatilityへの短期対応から、oil依存そのものを減らす制度・産業・金融構造の転換へAngolaが移行できるかである。
