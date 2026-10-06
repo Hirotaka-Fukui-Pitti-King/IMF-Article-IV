@@ -52,8 +52,8 @@ goods and services、fuel subsidies、public investmentを合わせてGDP比14.5
 
 2014年と2015 revised budgetを比べると、
 
-- current expenditure: GDP比28.8% → 24.9%
-- capital expenditure: GDP比12.2% → 5.5%
+- current expenditureはGDP比28.8%から24.9%へ低下した。
+- capital expenditureはGDP比12.2%から5.5%へ低下した。
 
 となっている（PDF p.10）。
 
@@ -524,15 +524,7 @@ staffはmarket imbalance解消後にpriority listを撤廃する方向を示し�
 
 2015年には、そのnon-oil sector自体がoil shockで2%程度まで減速し、政府はpublic investmentを大きく削減し、FX shortageとbank stressに直面している。
 
-したがって、2007年から2015年までの一貫した問題は、
-
-\[
-\boxed{
-\text{oil revenue volatilityからnon-oil economyをどこまで切り離せたか}
-}
-\]
-
-である。
+したがって、2007年から2015年までの一貫した問題は、oil revenue volatilityからnon-oil economyをどこまで切り離せたか、という点にある。
 
 2015 Article IVの答えは、まだ十分には切り離せていない、というものだった。
 
