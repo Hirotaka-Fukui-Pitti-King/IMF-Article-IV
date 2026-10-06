@@ -442,15 +442,7 @@ oil-collateralized borrowingからmarket-based financingへ移ることには、
 
 一方でmarket financingは高金利である。
 
-その結果、
-
-\[
-\text{interest payments}\uparrow
-\rightarrow
-\text{social / development spending space}\downarrow
-\]
-
-というcrowding-outが起こる。
+その結果、interest paymentsが増えるほどsocial spendingやdevelopment spendingに使えるfiscal spaceが狭くなるというcrowding-outが起こる。
 
 staffはIFIやconcessional financingを優先すべきとする。
 
@@ -622,19 +614,7 @@ external financingが弱くなればgovernmentはdomestic borrowingへ依存す�
 
 するとbanksのgovernment claimsが増え、private creditがさらにcrowd outされる。
 
-したがってoil shockは、
-
-\[
-\text{oil revenue}\downarrow
-\rightarrow
-\text{fiscal deficit}\uparrow
-\rightarrow
-\text{domestic borrowing}\uparrow
-\rightarrow
-\text{private credit}\downarrow
-\]
-
-を通じてnon-oil growthも押し下げる。
+したがってoil shockによってoil revenueが減るとfiscal deficitが拡大し、政府のdomestic borrowingが増えやすくなる。その結果、banksの資金が政府向けに吸収されてprivate creditが減り、non-oil growthまで押し下げられる可能性がある。
 
 これはoil sectorとnon-oil sectorを金融channelで結ぶ重要なmechanismである。
 
@@ -1039,23 +1019,7 @@ authoritiesも2026年にはhorizontal policiesの重要性に概ね同意して�
 
 ## 54. 2026年のcentral tradeoff
 
-このArticle IVを最も簡潔にまとめると、
-
-\[
-\boxed{
-\text{development spending now}
-}
-\]
-
-と
-
-\[
-\boxed{
-\text{macro buffers for a lower-oil future}
-}
-\]
-
-のtradeoffである。
+このArticle IVを最も簡潔にまとめると、現在必要なdevelopment spendingを確保することと、oil revenueが縮小する将来に備えてmacro buffersを構築することのtradeoffである。
 
 Angolaにはelectricity、water、sanitation、human capital、transportなど大きなinvestment needsがある。
 
@@ -1063,21 +1027,7 @@ Angolaにはelectricity、water、sanitation、human capital、transportなど�
 
 したがって「もっと投資すればgrowthが上がる」というだけでは政策にならない。
 
-必要なのは、
-
-\[
-\text{high-return spending}
-+
-\text{non-oil revenue}
-+
-\text{exchange-rate adjustment}
-+
-\text{low-cost financing}
-+
-\text{private investment}
-\]
-
-の組み合わせである。
+必要なのは、returnの高いspendingを優先し、non-oil revenueを増やし、exchange rateを適切に調整し、financing costを抑え、private investmentを拡大することを組み合わせた政策である。
 
 ---
 
@@ -1126,7 +1076,7 @@ FSAPについてもrecommendationsを受け入れ、supervision、macroprudentia
 
 ---
 
-## 57. 2007 → 2015 → 2016 → 2018 → 2022 → 2023 → 2024 → 2026
+## 57. 2007年から2026年までの政策課題の変化
 
 ### 2007
 oil windfallを復興投資へどの速度で使うか。
@@ -1160,29 +1110,7 @@ oil revenue declineがstructuralであると認めた上で、economy全体をlo
 
 2026 Reportの核心は「oil priceが上がるか下がるか」ではない。
 
-むしろ、
-
-\[
-\boxed{
-\text{oil revenue is structurally declining}
-}
-\]
-
-ことを前提に、
-
-\[
-\boxed{
-\text{fiscal system}
-+
-\text{exchange rate}
-+
-\text{financial system}
-+
-\text{private sector}
-}
-\]
-
-をどう再設計するかである。
+むしろ、oil revenueがstructurally decliningしていることを前提に、fiscal system、exchange-rate regime、financial system、private sectorを一体としてどう再設計するかが問題である。
 
 staffが求めるadjustmentは、単なるexpenditure cutsではない。
 
@@ -1199,15 +1127,6 @@ staffが求めるadjustmentは、単なるexpenditure cutsではない。
 
 というpackageである。
 
-したがって2026 Article IVのcentral questionは、
-
-\[
-\boxed{
-\text{Angolaは「oil economyを安定化する」段階から、
-「oilが縮小するeconomyを作り直す」段階へ移れるか}
-}
-\]
-
-である。
+したがって2026 Article IVのcentral questionは、Angolaが「oil economyを安定化する」段階から、「oilが縮小するeconomyを作り直す」段階へ移れるか、という点にある。
 
 これは2007年以来のArticle IVを通して見ると、Angolaの政策問題が最も大きく変化した地点である。
