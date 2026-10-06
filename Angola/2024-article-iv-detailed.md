@@ -67,19 +67,7 @@ oil sectorのGDP shareは過去10年間でほぼ半減した。
 
 staffはoilとそのlinkagesを考えると、oil sectorがoverall economic activityの4分の3以上を左右すると評価している。
 
-つまり、
-
-\[
-\text{oil share in GDP}\downarrow
-\]
-
-だけでは、
-
-\[
-\text{oil dependence}\downarrow
-\]
-
-とは言えない。
+つまり、oil sectorのGDP shareが低下しただけでは、oil dependenceそのものが低下したとは言えない。
 
 input-output linkage、fiscal linkage、FX supply linkageまで見る必要がある。
 
@@ -126,17 +114,7 @@ staffはinflationの半分以上がsupply-side cost-push factorsによると推�
 
 政府はdomestic productionとfood securityを目的にimport licensingなどを導入している。
 
-しかしstaffは、こうした措置が、
-
-\[
-\text{imports}\downarrow
-\rightarrow
-\text{cheaper inputs / food supply}\downarrow
-\rightarrow
-\text{production costs and consumer prices}\uparrow
-\]
-
-を通じてinflationを押し上げたと評価した。
+しかしstaffは、こうした措置によってimportsが減ると、安価なinputsやfoodの供給も減り、その結果としてproduction costsとconsumer pricesが上昇し、inflationを押し上げたと評価した。
 
 つまりdiversification policyそのものが短期のinflation objectiveと衝突している。
 
@@ -827,30 +805,7 @@ FATF action planはearly 2027までの改善を想定している。
 
 Annex VIはgrey listingが単なるlegal issueではなくmacro-financial riskであることを整理している。
 
-可能なchannelは、
-
-\[
-\text{grey listing}
-\rightarrow
-\text{cross-border transaction costs}\uparrow
-\]
-
-\[
-\rightarrow
-\text{capital inflows}\downarrow
-\]
-
-\[
-\rightarrow
-\text{external financing costs}\uparrow
-\]
-
-\[
-\rightarrow
-\text{reserve / exchange-rate pressure}
-\]
-
-である。
+可能なchannelは、grey listingによってcross-border transaction costsが上昇し、それがcapital inflowsを減らし、external financing costsを押し上げ、最終的にreserveとexchange rateへのpressureを強める、というものである。
 
 IMFが引用するempirical evidenceでは、grey listing後にcapital inflowsが平均7.6% of GDP低下するという結果がある。
 
@@ -1054,39 +1009,17 @@ priorityとして、
 
 2024年のdifferenceは2016年のようなexchange-rate regimeをめぐる大対立ではない。
 
-より重要なのは、
-
-\[
-\boxed{
-\text{今もっと投資するか}
-\quad \text{vs} \quad
-\text{まずfiscal bufferとinvestment efficiencyを改善するか}
-}
-\]
-
-である。
+より重要なのは、今すぐpublic investmentをさらに増やすべきか、それともまずfiscal bufferとinvestment efficiencyを改善すべきか、というsequencingの問題である。
 
 当局はinfrastructure constraintがgrowthを抑えているため、一時的にcapital spendingを増やす価値があると考える。
 
 staffは、financing needsとdebt riskが高く、investment qualityも低いので、まずproject selection、procurement、PFM、non-oil revenueを改善すべきと考える。
 
-これは単なる「緊縮か成長か」ではなく、
-
-\[
-\text{marginal public investment return}
-\]
-
-が、
-
-\[
-\text{marginal financing / debt risk}
-\]
-
-を上回るかというeconomic tradeoffである。
+これは単なる「緊縮か成長か」という二者択一ではなく、追加的なpublic investmentが生むreturnが、そのために増えるfinancing costやdebt riskを上回るかというeconomic tradeoffである。
 
 ---
 
-## 51. 2007 → 2015 → 2016 → 2018 → 2022 → 2023 → 2024
+## 51. 2007年から2024年までの政策課題の変化
 
 ### 2007
 oil windfallを復興投資へどの速度で使うか。
@@ -1109,31 +1042,7 @@ oil shockとdebt-service shockに対して、その制度が実際にshock absor
 ### 2024
 shockから回復したときに、再びpolitical cycleとcapital spending expansionへ戻らず、fiscal disciplineとdevelopment investmentを両立できるか。
 
-したがって2024 Article IVのcruxは、
-
-\[
-\boxed{
-\text{growth recovery}
-\rightarrow
-\text{fiscal loosening}
-}
-\]
-
-という過去のpatternを再び繰り返すのか、それとも、
-
-\[
-\boxed{
-\text{growth recovery}
-\rightarrow
-\text{buffers}
-+
-\text{better investment quality}
-+
-\text{non-oil revenue}
-+
-\text{private-sector-led diversification}
-}
-\]
+したがって2024 Article IVのcruxは、growth recoveryを再びfiscal looseningへつなげる過去のpatternを繰り返すのか、それとも回復局面を利用してbuffersを再構築し、public investmentの質を高め、non-oil revenueを強化し、private-sector-led diversificationを進めるのか、という点にある。
 
 へ移れるかである。
 
