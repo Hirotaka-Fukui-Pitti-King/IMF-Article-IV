@@ -112,6 +112,17 @@ IMF Country Report No. 07/354, *Angola: 2007 Article IV Consultation—Staff Rep
 
 2007年は、内戦終結後の石油ブームの下で、復興投資をどの速度で拡大するべきかが中心的な政策問題だった。
 
+## 2012 Article IV Consultation and Post-Program Monitoring
+
+- [詳細解説](./2012-article-iv-ppm-detailed.md)
+- [要点をまとめた日本語記事](./2012-article-iv-ppm-summary.md)
+
+### 原資料
+
+IMF Country Report No. 12/215, *Angola: 2012 Article IV Consultation and Post Program Monitoring*, August 2012.
+
+2012年は、2009年oil-price collapse後の27か月Stand-By Arrangementが2012年3月に終了した直後のArticle IVとFirst Post-Program Monitoringを扱う。SBA下でfiscal position、reserves、exchange-rate stability、inflation、domestic arrearsは大きく改善した一方、2011年にはnon-oil primary deficitが再び拡大し、Sonangolのquasi-fiscal operationsとoil-revenue transfer delaysがfiscal accountsを不安定にしていた。中心テーマは、medium-term fiscal framework、Oil for Infrastructure Fund、NOPD fiscal anchor、fuel subsidy reform、9か月分のreserve buffer、new monetary operational framework、2012 FSAP、new oil-sector foreign exchange law、exchange-rate competitiveness、debt sustainability、diversificationである。Appendix IIではSonangol QFOを組み戻すことで2007–10年のfiscal historyそのものが大幅修正され、2008年のfiscal positionが従来認識より弱かったことが示される。
+
 ## 2015
 
 - [詳細解説](./2015-article-iv-detailed.md)
@@ -189,7 +200,7 @@ IMF Country Report No. 26/94, *Angola: 2026 Article IV Consultation—Press Rele
 
 2026年は、oil production・oil revenuesの低下をtemporary shockではなくstructural trendとして捉え、Angolaがlower-oil economyへどうadjustするかを扱う。fiscal consolidationとFSLのcredibility、market-clearing rateへ向けたexchange-rate adjustment、tight monetary policy、2025 FSAP、sovereign-bank nexus、fuel subsidy reform、Sonangolとのquasi-fiscal relationship、financial inclusion、Lobito Corridorが中心テーマである。
 
-## 1995・1997・1999・2000・2003・2004・2005・2007・2015・2016・2018・2022・2023・2024・2026を通じた読み方
+## 1995・1997・1999・2000・2003・2004・2005・2007・2012・2015・2016・2018・2022・2023・2024・2026を通じた読み方
 
 - **1995:** Lusaka Protocolで和平の可能性が生まれた内戦末期に、war economyからpeace economyへ移り、hyperinflation、fiscal dominance、external arrears、oil dependence、institutional breakdownを同時に解消できるか。
 - **1997:** 急速なdisinflationを実現した一方、underlying fiscal imbalanceを解消できたのか、それともcentral-bank financingをdomestic arrearsとadministrative controlsへ置き換えただけなのか。
@@ -200,6 +211,7 @@ IMF Country Report No. 26/94, *Angola: 2026 Article IV Consultation—Press Rele
 - **2005:** oil production doublingが目前に迫る中、government takeの変動、Hard Kwanzaによるdisinflation、real appreciation、oil-backed borrowing、diamond-sector governanceをどう管理し、resource boomを持続可能なfiscal and external positionへ変えるか。
 - **2007 Selected Issues:** Hard Kwanza後のmonetary frameworkを、formal pegやpremature inflation targetingではなく、dollarization・remonetization・exchange-rate flexibilityを織り込んだimproved monetary targetingへ移行できるか。またrecent real appreciationのどこまでがproductivity recoveryとoil boomに対応したequilibrium adjustmentなのか。
 - **2007:** 石油収入が急増する中で、復興投資をどの速度で拡大するか。
+- **2012:** 2009年危機とSBAによるstabilizationを経て、再びoil boom時のprocyclical spendingへ戻らず、Sonangol QFOをbudgetへ統合し、medium-term fiscal frameworkとOIFでpriority investmentをshockから守りながら、financial stabilityとdiversificationを進められるか。
 - **2015:** 石油収入が急減した後、財政・為替・外貨準備をどう調整するか。
 - **2016:** 大幅な調整をすでに行った後、growthを傷つけすぎずに残存するmacro imbalanceをどう解消するか。
 - **2018:** 2017年のpolicy reversalで失われたbuffersを、新政権がmarket-basedな為替、fiscal anchor、bank restructuring、governance reformを通じて再構築できるか。
@@ -208,4 +220,4 @@ IMF Country Report No. 26/94, *Angola: 2026 Article IV Consultation—Press Rele
 - **2024:** shockからgrowthが回復したときに、再びpolitical cycleとcapital-spending expansionへ戻らず、fiscal buffers、public-investment efficiency、non-oil revenue、private-sector-led diversificationを積み上げられるか。
 - **2026:** oil revenue declineをstructuralな前提として受け入れ、fiscal system、exchange rate、financial system、private sectorをlower-oil equilibriumへadjustできるか。
 
-十六の文書を通じてみると、Angolaのoil dependenceは単なるresource endowmentではなく、内戦によるnon-oil productive capacityとstate capacityの崩壊の中で形成されたことが分かる。1997年版はinflationを下げることとunderlying fiscal problemを解決することは別であることを示し、1999 Statistical Annexはその後もfiscal institutionsとexternal financingのnormalizationが遅れていたことを数字で確認する。2000年版は、market-oriented reformsを開始してもcivil warがmilitary spending、arrears、inflation、state-capacity breakdownを再生産すればstabilizationは定着しないことを示す。2003年になるとcivil warが終結し、論点はpeace dividendとdeep-water oil boomをtransparent fiscal institutions、debt normalization、reconstruction、poverty reductionへ転換できるかに移る。その後の中心問題は、oil revenue volatilityへの短期対応から、oil依存そのものを減らす制度・産業・金融構造の転換へAngolaが移行できるかである。
+十七の文書を通じてみると、Angolaのoil dependenceは単なるresource endowmentではなく、内戦によるnon-oil productive capacityとstate capacityの崩壊の中で形成されたことが分かる。1997年版はinflationを下げることとunderlying fiscal problemを解決することは別であることを示し、1999 Statistical Annexはその後もfiscal institutionsとexternal financingのnormalizationが遅れていたことを数字で確認する。2000年版は、market-oriented reformsを開始してもcivil warがmilitary spending、arrears、inflation、state-capacity breakdownを再生産すればstabilizationは定着しないことを示す。2003年になるとcivil warが終結し、論点はpeace dividendとdeep-water oil boomをtransparent fiscal institutions、debt normalization、reconstruction、poverty reductionへ転換できるかに移る。その後の中心問題は、oil revenue volatilityへの短期対応から、oil依存そのものを減らす制度・産業・金融構造の転換へAngolaが移行できるかである。
