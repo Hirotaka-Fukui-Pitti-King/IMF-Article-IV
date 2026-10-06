@@ -154,11 +154,7 @@ capital marketもmoney marketも未発達だった。
 
 さらにexternal debt serviceを止め、arrearsを積み上げた。
 
-このため、
-
-**large war deficit → central-bank credit → money growth → inflation → depreciation**
-
-というfiscal-dominance mechanismが作られた。
+このため、大規模なwar deficitがcentral-bank creditで賄われるとmoney supplyが増え、それがinflationを加速させ、さらにkwanzaのdepreciationを強めるというfiscal-dominance mechanismが作られた。
 
 ## inflationはほぼhyperinflationだった
 
