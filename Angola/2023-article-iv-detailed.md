@@ -84,17 +84,7 @@ oil exportsが低下したにもかかわらず、gross international reserves�
 
 ARA metricでは122%だった。
 
-exchange rateを固定してreservesを大量に失うのではなく、
-
-\[
-\text{lower FX inflows}
-\rightarrow
-\text{kwanza depreciation}
-\rightarrow
-\text{imports / FX demand adjustment}
-\]
-
-を通じてshockを吸収した。
+exchange rateを固定してreservesを大量に失うのではなく、FX inflowsの減少に応じてkwanzaがdepreciateし、それによってimportsとFX demandが調整されることでshockを吸収した。
 
 これは2015–16年との大きな違いである。
 
@@ -439,19 +429,7 @@ custody feeも撤廃した。
 
 interbank rateがpolicy rateから乖離し、banking systemにexcess liquidityが残れば、announced tighteningが実際のfinancial conditionsへ伝わらない。
 
-したがって2023年のmonetary-policy cruxは、
-
-\[
-\text{policy rate}
-\rightarrow
-\text{interbank rate}
-\rightarrow
-\text{bank lending conditions}
-\rightarrow
-\text{inflation expectations}
-\]
-
-というtransmission mechanismを実際に機能させることだった。
+したがって2023年のmonetary-policy cruxは、policy rateの変更がinterbank rateへ伝わり、さらにbank lending conditionsとinflation expectationsへ波及するtransmission mechanismを実際に機能させることだった。
 
 ---
 
