@@ -49,17 +49,7 @@ gross financing needsはGDP比約10%まで上昇した。
 
 AngolaではTreasuryとoil companiesがFX market supplyの約60%を占める。そのTreasuryがexternal debt repaymentへドルを回すと、domestic FX marketへ供給できるドルが減る。
 
-したがって、
-
-\[
-\text{debt service}\uparrow
-\rightarrow
-\text{Treasury FX supply}\downarrow
-\rightarrow
-\text{kwanza depreciation pressure}\uparrow
-\]
-
-というchannelが生じた。
+したがって、external debt serviceが増えるとTreasuryがdomestic FX marketへ供給できる外貨が減り、その結果としてkwanzaへのdepreciation pressureが強まるというchannelが生じた。
 
 2023年はdebt dynamicsとforeign-exchange marketが直接結びついた年だった。
 
@@ -173,13 +163,7 @@ gasoline subsidyを45%削減したにもかかわらず、2023年のtotal subsid
 
 輸入fuelのcost-recovery priceは外貨建てなので、
 
-\[
-\text{kwanza depreciation}
-\rightarrow
-\text{domestic cost of imported fuel}\uparrow
-\]
-
-となる。
+kwanzaがdepreciateすると、imported fuelの国内通貨建てcostは上昇する。
 
 そのためdomestic pump priceを大きく上げても、international costとの差が再び広がった。
 
@@ -306,15 +290,7 @@ public debt-to-GDP ratioは2022年の64.8%から2023年に約84%へ急上昇し�
 
 public debtの約80%がforeign currency denominatedなので、
 
-\[
-\text{kwanza depreciation}
-\rightarrow
-\text{FX debt valuation}\uparrow
-\rightarrow
-Debt/GDP\uparrow
-\]
-
-が直接起こる。
+kwanzaがdepreciateするとforeign-currency debtのkwanza換算額が増えるため、他の条件が同じでもdebt-to-GDP ratioは直接上昇する。
 
 2022年にはkwanza appreciationがdebt ratioを大きく下げ、2023年には逆方向に大きく押し上げた。
 
@@ -591,15 +567,7 @@ staffが挙げる要因は、
 
 である。
 
-したがって、
-
-\[
-\text{bank liquidity}\uparrow
-\not\Rightarrow
-\text{private credit}\uparrow
-\]
-
-である。
+したがって、bank liquidityが増えても、それだけでprivate creditが増えるとは限らない。
 
 macroeconomic stabilityとlegal infrastructureがなければcredit supply measuresだけではinvestmentは増えない。
 
@@ -949,7 +917,7 @@ Executive Director Statementでは、当局はstaff appraisalにbroadly同意し
 
 ---
 
-## 46. 2007 → 2015 → 2016 → 2018 → 2022 → 2023
+## 46. 2007年から2023年までの政策課題の変化
 
 ### 2007
 oil windfallを復興投資へどの速度で使うか。
@@ -975,22 +943,6 @@ flexible exchange rateはreservesを守った。政府は下半期に大きくfi
 
 一方で、kwanza depreciationでinflationとdebt ratioが急上昇し、protestsが起こり、FX market fragmentation、arrears、problem banks、weak private creditも残った。
 
-したがって2023 Article IVのcruxは、
-
-\[
-\boxed{
-\text{改革を導入したか}
-}
-\]
-
-ではなく、
-
-\[
-\boxed{
-\text{shock時にも改革制度が機能し、社会的・政治的に持続できるか}
-}
-\]
-
-である。
+したがって2023 Article IVのcruxは、改革を導入したかどうかではなく、shock時にもその制度が実際に機能し、社会的・政治的に持続できるかどうかにある。
 
 2018–22年に作ったframeworkが、2023年に初めて本格的に試された。この意味で2023 Article IVは、Angolaのpost-EFF macroeconomic regimeの最初の実戦テストを記録した文書として読むのが最も適切である。
