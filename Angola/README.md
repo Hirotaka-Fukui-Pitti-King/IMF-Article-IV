@@ -46,11 +46,23 @@ IMF Country Report No. 18/156, *Angola: 2018 Article IV Consultation—Press Rel
 
 2018年は、2017年選挙前のfiscal expansionとexchange-rate pegで失われたfiscal / external buffersを、João Lourenço政権がMacroeconomic Stabilization Programの下でどう再構築するかを扱う。為替柔軟化、front-loaded fiscal adjustment、debt reduction、BPC問題、governance・anti-corruption、private-sector-led diversification、social spending改革が中心テーマである。
 
-## 2007・2015・2016・2018を通じた読み方
+## 2022
+
+- [詳細解説](./2022-article-iv-detailed.md)
+- [要点をまとめた日本語記事](./2022-article-iv-summary.md)
+
+### 原資料
+
+IMF Country Report No. 23/100, *Angola: 2022 Article IV Consultation—Press Release; Staff Report; and Statement by the Executive Director for Angola*, March 2023.
+
+2022年は、2018–21年のEFFとCOVID-19 crisisを経て得たmacro stabilityを、IMF program終了後にも維持できるかを扱う。高oil priceの下で再びfiscal looseningが起きた一方、public debtは為替増価などを背景に急低下した。fuel subsidy reformとKwenda、inflation targetingへの移行、problem-bank resolution、SOE privatization、private credit、governance、climate-resilient diversificationが中心テーマである。
+
+## 2007・2015・2016・2018・2022を通じた読み方
 
 - **2007:** 石油収入が急増する中で、復興投資をどの速度で拡大するか。
 - **2015:** 石油収入が急減した後、財政・為替・外貨準備をどう調整するか。
 - **2016:** 大幅な調整をすでに行った後、growthを傷つけすぎずに残存するmacro imbalanceをどう解消するか。
 - **2018:** 2017年のpolicy reversalで失ったbuffersを、新政権がmarket-basedな為替、fiscal anchor、bank restructuring、governance reformを通じて再構築できるか。
+- **2022:** EFF終了後、高oil priceの局面で改革を維持し、oil windfallを再びpro-cyclical spendingへ戻さず、debt reduction・targeted social protection・non-oil revenue・private-sector diversificationへ振り向けられるか。
 
-四つの文書を通じた中心問題は、oil revenue volatilityからnon-oil economyをどこまで切り離せるか、そして危機後のadjustmentを一時的な緊縮ではなく持続的な制度改革へ変えられるかである。
+五つの文書を通じた中心問題は、oil revenue volatilityからnon-oil economyをどこまで切り離せるか、そして危機時に導入した改革を好況時にも維持できる制度へ変えられるかである。
