@@ -14,25 +14,7 @@ Angolaの原油価格は2014年の1バレル約101ドルから2015年には約53
 
 である。
 
-staffが重視したのは、単なるfiscal consolidationではない。必要だったのは、
-
-\[
-\text{oil price shock}
-\rightarrow
-\begin{cases}
-\text{fiscal revenue decline}\\
-\text{FX inflow decline}
-\end{cases}
-\rightarrow
-\begin{cases}
-\text{spending cuts / debt increase}\\
-\text{kwanza depreciation / reserves decline}
-\end{cases}
-\rightarrow
-\text{inflation・bank stress・non-oil slowdown}
-\]
-
-という複数の調整経路を、disorderly adjustmentにしないことである。
+staffが重視したのは、単なるfiscal consolidationではない。油価下落によって政府の石油収入と外貨流入が同時に減ると、政府は歳出削減や追加借入を迫られ、外貨市場ではkwanzaの下落や外貨準備の減少が進む。その結果、インフレ、銀行部門のストレス、非石油部門の減速が同時に起こりうる。staffが重視したのは、こうした複数の調整をdisorderly adjustmentにしないことである。
 
 ---
 
@@ -83,15 +65,7 @@ staffは2015年のoverall deficitをGDP比3.5%と予測した。revised budget�
 
 ただしstaffは、政府ほどnon-oil revenue増加には楽観的ではなかった。税務行政改革の改善効果がある一方、imports減少によってborder tax revenueが減るからである（PDF p.10）。
 
-ここには重要な点がある。
-
-\[
-\text{fiscal adjustment}
-\neq
-\text{tax administrationだけで埋められる}
-\]
-
-ということである。oil shockが景気とimportsも落とすため、non-oil revenueを増やす政策自体が景気後退によって相殺される。
+ここには重要な点がある。必要な財政調整のすべてを税務行政の改善だけで賄うことはできない。oil shockは景気とimportsも落とすため、non-oil revenueを増やす政策の効果自体が景気後退によって相殺されるからである。
 
 ---
 
@@ -107,13 +81,7 @@ staffは2015年のoverall deficitをGDP比3.5%と予測した。revised budget�
 
 である。
 
-つまり、
-
-\[
-\frac{D}{Y}
-\]
-
-の分子 \(D\) が増えるだけでなく、ドル換算・名目GDPの弱さによって分母 \(Y\) も悪化する。
+つまり、public debt-to-GDP ratioが上昇したのは債務残高そのものが増えたからだけではない。kwanzaの下落によって外貨建て債務の国内通貨換算額が膨らむ一方、油価下落によって名目GDPも弱くなったため、債務比率の分子と分母の両方が悪化した。
 
 またこのpublic debtには、central governmentだけでなくpublic entities、およびSonangolとTAAGのexternal debtが含まれる。2015年のpublic debtのうちSonangol分はGDP比14.7%とされた（PDF p.2）。
 
@@ -195,15 +163,7 @@ distributional incidenceを見ると、
 
 staffの推計では、fuel subsidiesを完全撤廃するとdirect + indirect effectを通じてbottom 20%のreal incomeは約9%低下する。
 
-ここからstaffが出した政策は、
-
-\[
-\text{universal fuel subsidy}
-\rightarrow
-\text{targeted social assistance}
-\]
-
-への転換である。
+ここからstaffが出した政策は、すべての消費者に対して燃料価格を安くするuniversal fuel subsidyを縮小し、低所得世帯へ直接支援を届けるtargeted social assistanceへ転換することである。
 
 政府はCartão Kikuiaというunconditional cash transferを拡張し、既に5万世帯へ月1万kwanzaを給付し、さらに9万世帯追加を計画していた。
 
@@ -217,17 +177,7 @@ staffは、2020年までにpublic debt-to-GDPを2013–14年の水準へ戻し�
 
 ここでstructural surplusを求める理由は、Angolaが通常の国より恒常的に黒字であるべきという意味ではない。
 
-石油はexhaustibleかつ価格変動が大きいため、
-
-\[
-\text{current oil revenue}
-=
-\text{permanent income}
-+
-\text{temporary windfall}
-\]
-
-と考え、一部を将来世代のために保存する必要があるというintergenerational logicである。
+石油は枯渇性資源であり、価格変動も大きい。そのため、現在得られている石油収入のすべてを恒常的な所得とみなすのではなく、その一部は一時的なwindfallだと考え、将来世代のために金融資産として残す必要がある、というintergenerational logicである。
 
 staffは、
 
@@ -268,49 +218,15 @@ BNAはofficial FXへのpriority listを導入し、
 
 ## 8. IMF staffの為替調整案：devaluationだけではない
 
-staffが提案したのは単純な「通貨を下げる」政策ではない。
-
-必要なのは、
-
-\[
-\boxed{
-\text{further depreciation}
-+
-\text{moderate reserve use}
-+
-\text{tighter monetary policy}
-+
-\text{fiscal adjustment}
-}
-\]
-
-というpolicy packageだった（PDF pp.19, 24）。
+staffが提案したのは単純な「通貨を下げる」政策ではない。kwanzaをさらに調整させること、外貨準備を適度に使うこと、金融政策を引き締めること、そして財政調整を続けることを組み合わせたpolicy packageだった（PDF pp.19, 24）。
 
 理由は、Angolaではexchange-rate pass-throughが高いからである。
 
 Box 2では、CPI、NEER、主要輸入国のexport prices、international food/oil prices、output gapを使ったVector Error Correction Modelが推定されている（PDF pp.20–21）。
 
-long-run pass-throughは、
+long-run pass-throughは、2005–10年の推計ではNEERが1%下落するとCPIが約0.63%上昇し、2008–15年では約0.49%、2011–15年では約0.34%上昇するという結果だった。pass-throughは時間とともに低下しているものの、依然として大きい。
 
-- 2005–10: 1%のNEER下落 → CPI約0.63%上昇
-- 2008–15: 約0.49%
-- 2011–15: 約0.34%
-
-と低下しているが、依然大きい。
-
-したがってdevaluationだけを行えば、
-
-\[
-\text{kwanza depreciation}
-\rightarrow
-\text{import prices}
-\rightarrow
-\text{inflation}
-\rightarrow
-\text{real appreciation}
-\]
-
-となり、名目為替切下げのcompetitiveness効果の一部が物価上昇で消える。
+したがってdevaluationだけを行えば、kwanza安によって輸入価格が上がり、その上昇が国内インフレへ波及する。国内物価が上がれば、名目為替切下げによって得られた実質的な競争力改善の一部が失われる。
 
 そのためstaffは、devaluationと同時にexcess liquidityを吸収し、kwanza T-billのreal interest rateをpositiveにし、fiscal demandも抑える必要があるとした。
 
@@ -339,15 +255,7 @@ frameworkへ移ることを提案した。
 
 の改善が必要とされた。
 
-これは制度的には重要なtransitionである。
-
-\[
-\text{exchange-rate anchor}
-\rightarrow
-\text{monetary-aggregate-based framework}
-\]
-
-へ移る必要があったが、financial marketsが浅くmonetary transmissionも弱いため、簡単な移行ではなかった。
+これは制度的には重要なtransitionである。従来のexchange-rate anchorに依存する枠組みから、monetary aggregatesをより明示的に管理する枠組みへ移る必要があった。しかしfinancial marketsが浅くmonetary transmissionも弱いため、簡単な移行ではなかった。
 
 ---
 
@@ -362,19 +270,7 @@ frameworkへ移ることを提案した。
 
 があり、BNAはrecapitalization planを求めていたが進捗は遅かった。
 
-実体経済から銀行へのリンクは強かった。
-
-\[
-\text{lower oil revenue}
-\rightarrow
-\text{lower public/private demand}
-\rightarrow
-\text{borrower stress}
-\rightarrow
-\text{NPL increase}
-\]
-
-である。
+実体経済から銀行へのリンクは強かった。石油収入の減少によって政府支出と民間需要が弱くなると、企業や家計の所得・売上も悪化し、借り手の返済能力が低下する。その結果、銀行のNPLが増加した。
 
 一方、銀行から実体経済へのcredit channelは元々弱く、銀行は利用可能資金の半分未満しかprivate sectorへ貸していなかった。そのためfinancial acceleratorは限定的だが、bank lending standardsのtighteningはrecoveryを遅らせる可能性があるとstaffは述べている。
 
@@ -440,19 +336,7 @@ IMF reserve adequacy metricに対しては、
 
 しかし、BNAが受け取るFX以上の量を市場へ供給し続ければreserveは減り続ける。しかも金融システムがまだ高度にdollarizedされているため、危機時にbanking systemへFX liquidityを提供するbufferも必要である。
 
-このためstaffは、
-
-\[
-\text{reservesでpegを守り切る}
-\]
-
-のではなく、
-
-\[
-\text{reservesでadjustmentをsmoothしつつ、exchange rate自体を調整する}
-\]
-
-べきだとした。
+このためstaffは、外貨準備を使って為替レートを固定し続けるのではなく、外貨準備は急激な調整を和らげるために使いながら、exchange rate自体も経済条件に合わせて調整させるべきだとした。
 
 ---
 
@@ -512,19 +396,7 @@ Angola-specific stress testとして、2016年のoil priceがbaselineの半分�
 
 このケースではdebt ratioは2016年に大きくjumpし、その後低下するもののbaselineより高い水準に残る（PDF p.54）。
 
-これはoil shockが、
-
-\[
-\text{oil price}
-\rightarrow
-\text{fiscal revenue}
-\rightarrow
-\text{primary balance}
-\rightarrow
-\text{debt}
-\]
-
-を通じて直接効くことを示す。
+これは、oil priceの下落によって政府の石油収入が減り、primary balanceが悪化し、その結果として追加借入が必要になってpublic debtが増える、という財政経路を示している。
 
 ### 14.3 growth shockとexchange-rate shock
 
@@ -642,19 +514,11 @@ staffはmarket imbalance解消後にpriority listを撤廃する方向を示し�
 
 ### 2007
 
-\[
-\text{oil revenue boom}
-\rightarrow
-\text{how fast should Angola spend?}
-\]
+2007年の中心問題は、石油収入が急増する中で、Angolaがその収入をどの程度の速度で国内支出へ回すべきかだった。
 
 ### 2015
 
-\[
-\text{oil revenue collapse}
-\rightarrow
-\text{how fast can Angola adjust?}
-\]
+2015年の中心問題は逆に、石油収入が急減する中で、Angolaが財政、為替、金融をどの程度の速度で調整できるかだった。
 
 2007年のIMFは、支出を急拡大するとinflationとreal appreciationを通じてnon-oil sectorを弱めると警告した。
 
