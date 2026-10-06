@@ -829,7 +829,7 @@ post-conflict stateではpolicy designだけでなくimplementation capacityがb
 
 ---
 
-## 65. 1995 → 1997 → 1999 → 2000 → 2003
+## 65. 1995年から2003年までの変化
 
 ### 1995
 war finance、hyperinflation、external arrearsの中でpeace economyへ移れるか。
