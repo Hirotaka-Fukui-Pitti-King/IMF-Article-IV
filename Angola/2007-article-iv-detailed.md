@@ -38,15 +38,7 @@ BNA（Banco Nacional de Angola）は外貨市場への介入とBNA billsの売�
 
 2006年のnon-oil primary deficitはnon-oil GDP比50.3%だった。2005年の61.5%からは縮小したものの、他のサブサハラ・アフリカ産油国と比べても非常に大きかった（PDF p.6）。
 
-この指標の意味は明快である。石油収入を除いた政府の基礎的な財政ポジションを見ると、政府支出は非石油税収を大幅に上回っている。つまり、
-
-\[
-\text{large overall surplus}
-\neq
-\text{tight fiscal stance}
-\]
-
-である。石油価格・生産量が高い間は黒字でも、石油収入が低下したときに同じ支出構造を維持できるとは限らない。
+この指標の意味は明快である。石油収入を除いた政府の基礎的な財政ポジションを見ると、政府支出は非石油税収を大幅に上回っている。したがって、大きな財政黒字が出ていることは、基礎的な財政運営まで引き締め的であることを意味しない。石油価格・生産量が高い間は黒字でも、石油収入が低下したときに同じ支出構造を維持できるとは限らない。
 
 また2006年のcapital spendingはGDP比9%にとどまり、予算の約半分しか実施されなかった。財政黒字が大きかった理由の一部は、政府が意図的に支出を抑えたというより、**行政能力・技能労働力・信用供給などの制約で投資予算を執行できなかったこと**にある（PDF p.6）。
 
@@ -68,35 +60,9 @@ Staff Reportは、Angolaの主要課題を次の3点に整理している（PDF 
 2. 経済全体のcompetitivenessを改善する。
 3. non-oil / non-extractive economyを育成する。
 
-この3点は独立ではない。
+この3点は独立ではない。石油ブームで政府収入が増えると公共支出を拡大しやすくなり、それが国内需要を押し上げる。供給能力が十分に増えないまま需要だけが増えれば、インフレや実質為替レートの上昇が起こり、非石油貿易財部門の競争力が低下する。その結果、石油生産が成熟した後に必要となる税収基盤や輸出基盤まで弱くなる可能性がある。
 
-\[
-\text{oil boom}
-\rightarrow
-\text{government revenue}
-\rightarrow
-\text{public spending}
-\rightarrow
-\text{domestic demand}
-\rightarrow
-\text{inflation / real appreciation}
-\rightarrow
-\text{non-oil tradables competitiveness}
-\]
-
-という経路があるため、石油収入を使いすぎると非石油部門の育成を難しくし、その結果として石油終了後の税収・輸出基盤も弱くなる。
-
-一方で、Angolaには道路、電力、水、学校、医療、人材などの深刻な不足があった。公共投資がこれらを改善すれば、
-
-\[
-\text{public investment}
-\rightarrow
-\text{higher private productivity}
-\rightarrow
-\text{non-oil growth}
-\]
-
-となり、むしろ石油依存脱却を助ける。
+一方で、Angolaには道路、電力、水、学校、医療、人材などの深刻な不足があった。公共投資によってこうした制約が緩和されれば、民間企業の生産性が高まり、非石油部門の成長が加速する可能性がある。その場合、公共投資はむしろ石油依存からの脱却を助ける。
 
 このため、核心は「公共支出を増やすこと自体が悪い」ではなく、**支出を生産能力の増加へ変換できるabsorptive capacityと制度能力が十分か**にある。
 
@@ -142,23 +108,7 @@ Staff ReportのBox 1は、2007–12年にbaselineより毎年non-oil GDP比10 pe
 
 という結果になる。
 
-ここでstaffの論理は、単純なcrowding outではない。問題は、
-
-\[
-\text{fiscal expansion}
-\rightarrow
-\text{aggregate demand}
-\]
-
-が先に起きるのに対し、
-
-\[
-\text{infrastructure / health / education}
-\rightarrow
-\text{productive capacity}
-\]
-
-にはlagがあることである。短期の需要増加が供給能力の増加を上回れば、価格・実質為替レートに圧力がかかる。
+ここでstaffの論理は、単純なcrowding outではない。財政拡張による需要増加は比較的すぐに現れる一方、インフラ、医療、教育への支出が実際の生産能力を高めるまでには時間がかかる。したがって、短期の需要増加が供給能力の増加を上回れば、価格と実質為替レートに上昇圧力がかかる、というのがstaffの懸念だった。
 
 ---
 
@@ -330,15 +280,7 @@ Board討議当日のStaff Statementは、Staff Report公表後の新情報を反
 
 このアップデートはstaffの懸念を強める方向だった。石油生産見込みが下がったにもかかわらず支出計画は拡大し、しかもbudget oil price assumptionも引き上げられたからである。
 
-特にここでは、「好況時に支出を増やしすぎる」だけでなく、
-
-\[
-\text{lower expected oil output}
-+
-\text{higher planned expenditure}
-\]
-
-という組み合わせになっている。これがmedium-term fiscal frameworkの必要性をstaffが改めて強調した理由である。
+特にここでは、単に好況時に支出を増やしすぎるという問題ではなく、石油生産の見通しが下方修正されたのと同時に、計画支出が増額されていた。将来の石油収入が当初想定より弱くなる可能性が高まる一方で歳出計画は膨らんでいたため、staffはmedium-term fiscal frameworkの必要性を改めて強調した。
 
 ---
 
@@ -437,23 +379,7 @@ IMFは統計を「surveillanceにはadequate」としつつ、qualityとtimeline
 
 この文書の核心は、resource curseという抽象語ではなく、より具体的なintertemporal allocation problemである。
 
-政府は現在、
-
-\[
-R_t^{oil}
-\]
-
-という一時的で変動の大きい収入を持つ。その使い道は大きく、
-
-\[
-\text{current consumption},
-\quad
-\text{domestic public investment},
-\quad
-\text{foreign financial assets / debt reduction}
-\]
-
-に分かれる。
+政府は、一時的で変動の大きい石油収入を、現在の政府消費に使うのか、国内の公共投資に使うのか、あるいは海外金融資産の蓄積や債務返済に回すのかを決めなければならない。
 
 public investmentのreturnが高く、implementation capacityが十分なら、前倒し投資は合理的である。しかしreturnが低い、completionが遅い、domestic bottleneckが強い場合には、支出は主としてinflationとreal appreciationを生み、将来のnon-oil tax baseとexportsを弱める。
 
