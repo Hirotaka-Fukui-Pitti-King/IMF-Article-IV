@@ -1,0 +1,191 @@
+# 石油ブームの利益を「今」使うべきか――Angola 2007 Article IVを読む
+
+2007年のAngolaは、数字だけを見ると驚くほど好調だった。2006年の実質GDP成長率は18.6%。財政収支はGDP比14.8%の黒字、経常収支は23.3%の黒字、外貨準備は約86億ドルまで増え、対外債務はGDP比約20%まで低下した。内戦は2002年に終わり、石油価格上昇と新しい油田の生産開始によって、国にはかつてないほど大きな資金が流れ込んでいた。
+
+それでもIMFが心配していたのは、Angolaが「お金を持っていない」ことではなかった。むしろ逆だった。
+
+> **急に増えた石油収入を、どのくらいの速度で使うべきか。**
+
+これが2007年Article IVの中心問題である。
+
+## 戦後復興には大きな支出が必要だった
+
+Angolaは約30年に及ぶ内戦を終えたばかりで、道路、電力、水道、学校、医療、人材などに大きな不足があった。国民が「peace dividend」、つまり平和になった成果を生活改善として早く受け取りたいと考えるのは当然だった。
+
+政府も石油収入を使って公共投資を一気に拡大しようとしていた。
+
+この考え方には十分な経済合理性がある。道路や電力が整えば民間企業の生産性が上がり、農業や製造業が成長する。そうなれば、将来は石油に頼らなくても雇用・輸出・税収を生み出せる。
+
+つまり、
+
+\[
+\text{oil revenue}
+\rightarrow
+\text{infrastructure}
+\rightarrow
+\text{private productivity}
+\rightarrow
+\text{non-oil growth}
+\]
+
+という好循環が期待できる。
+
+## IMFが恐れたのは「使いすぎ」より「速すぎ」だった
+
+問題は、支出を増やせばすぐに道路や人的資本が完成するわけではないことだった。
+
+2006年、政府はかなり大きなcapital budgetを組んでいたが、実際のcapital spendingは予算の約半分にとどまった。技能労働者、行政能力、民間信用、project managementなどが不足し、支出を実際の生産能力へ変える力が弱かったためである。
+
+この状態で政府支出だけを急増させると、
+
+\[
+\text{government spending}
+\rightarrow
+\text{domestic demand}
+\rightarrow
+\text{inflation}
+\rightarrow
+\text{real exchange-rate appreciation}
+\]
+
+が先に起きる。
+
+すると、石油以外の輸出産業は国内コスト上昇と通貨高で競争力を失う。石油が減った後に経済を支えるはずの農業・製造業を、石油ブーム期の支出が弱くしてしまう可能性がある。
+
+これがIMF staffの最大の懸念だった。
+
+## 「財政黒字なのに財政拡張的」とはどういうことか
+
+2006年のAngolaはGDP比14.8%もの財政黒字だった。それなのにIMFは財政政策を慎重にするよう求めた。
+
+理由は、石油収入を除いて見ると状況がまったく違うからである。
+
+2006年の**non-oil primary deficit**はnon-oil GDP比50.3%だった。つまり石油収入を無視すると、政府支出は国内の非石油税収を大幅に上回っていた。
+
+石油が永遠に出続けるなら問題は小さい。しかしIMFは、oil productionは2010年前後にplateauし、その後は次第に弱くなると見ていた。
+
+そのためIMFは、現在のoverall surplusではなく、
+
+> **石油収入が減っても続けられる支出水準か**
+
+を見るためにnon-oil primary deficitを重視した。
+
+## IMFとAngola政府が最も対立した点
+
+ここでAngola側は重要な反論をした。
+
+IMFはnon-oil primary deficitを財政アンカーにすべきだと主張したが、Angola政府は**non-oil primary current balance**の方が適切だと述べた。
+
+違いはcapital expenditureをどう扱うかである。
+
+Angola側の主張はこうだった。
+
+「内戦でインフラが破壊されている国で、道路や電力への投資まで普通の政府支出と同じように扱うのはおかしい。石油収入を使って今インフラを作れば、将来の非石油経済が成長する。しかも機械・資材など輸入に向かう支出が多いので、支出全額が国内インフレを引き起こすわけでもない。」
+
+これは単なる「もっと使わせてほしい」という主張ではない。
+
+両者の本当の違いは、
+
+\[
+\boxed{\text{公共投資を高いreturnへ変換できる能力をどこまで信じるか}}
+\]
+
+にあった。
+
+IMFは、2006年に予算を半分しか執行できなかった事実を見て慎重だった。政府は、むしろそのインフラ不足こそが今すぐ大規模投資を必要とする理由だと考えた。
+
+## IMFのシミュレーションは何を示したか
+
+IMFは、2007–12年にbaselineより毎年non-oil GDP比10ポイント多く政府支出を行うケースを計算した。
+
+追加支出の半分をinfrastructure、4分の1ずつをhealthとeducationへ使うという設定だった。
+
+短期には当然growthが上がる。しかし供給能力の改善には時間がかかるため、同時にinflationとreal exchange rateも上昇する。構造改革が不十分なら、non-oil tradable sectorの成長は弱くなり、将来の財政余力も小さくなる。
+
+つまりIMFの結論は「公共投資は無意味」ではない。
+
+> **公共投資のreturnが実現する前に需要だけを急拡大すると、復興投資が自分自身の効果を打ち消す可能性がある。**
+
+というものだった。
+
+## 2007年途中に状況は少し悪化した
+
+8月のBoard会合直前、oil productionの拡大が予定より遅れていることが判明した。
+
+政府は2007年のoil production見込みを736.7 million barrelsから626.6 million barrelsへ下方修正し、real GDP growth見込みもoriginal budgetの31.2%から19.8%へ下げた。
+
+ところが同時に、revised budgetでは歳出をGDP比40.7%から44.2%へ増やした。capital budgetもさらに拡大した。もし完全に実施されれば、non-oil primary deficitはnon-oil GDP比75.4%に達する計画だった。
+
+つまり、
+
+\[
+\text{oil production outlook} \downarrow
+\qquad
+\text{planned spending} \uparrow
+\]
+
+となった。
+
+IMFがmedium-term fiscal frameworkの必要性を強く言ったのは、このためである。
+
+## 為替政策にも簡単な正解はなかった
+
+2006年のkwanzaは1ドル約80 kwanzaでほぼ固定され、IMFはde facto regimeをconventional pegと分類した。2007年5月には1ドル75 kwanzaへrevalueされた。
+
+IMF staffは、石油収入が流入する以上、real appreciationはある程度避けられないので、国内物価上昇だけで調整するよりnominal exchange rateにも柔軟性を持たせる方がよいと考えた。
+
+しかしExecutive Boardでは意見が分かれた。
+
+より柔軟な為替を支持するDirectorがいた一方、Angolaはdollarizationが大きく、金融市場も浅いため、管理された為替制度を続ける方が安全だというDirectorもいた。また急激な通貨高は、育成したいnon-oil sectorをさらに苦しくする。
+
+この論争も、
+
+\[
+\text{inflation control}
+\quad \text{vs.} \quad
+\text{non-oil competitiveness / financial stability}
+\]
+
+というトレードオフだった。
+
+## 債務は低かった。しかし安全とは言い切れなかった
+
+2007年時点でAngolaは債務危機に近かったわけではない。IMF・World BankのDSAはdebt distress riskを**moderate**と評価した。
+
+baselineでは債務比率は低位にとどまる。
+
+しかしstress scenarioでは結果が大きく変わった。
+
+non-oil sectorの構造改革が不十分なら、external current account deficitは2027年にGDP比13%まで拡大し、債務指標は2019年頃からthresholdを超える。
+
+oil export revenueが恒久的に10%低ければ、債務指標は2015年頃からthresholdを超える。
+
+さらにpublic debt DSAでは、real GDP growthが長期にわたりbaselineより年2ポイント低いだけで、2027年のNPV debt-to-GDPは300%を大きく超えるシミュレーションになった。
+
+この結果が意味するのは、
+
+> **現在の低い債務残高より、将来のnon-oil growthを本当に作れるかの方が重要だった**
+
+ということである。
+
+## 2007年のAngolaを一言で表すと
+
+このArticle IVは、「貧しい国にIMFが緊縮を要求した」という単純な話ではない。
+
+Angolaには実際に大規模な復興投資が必要だった。IMFもそれ自体は否定していない。一方で、行政能力が弱く、支出を生産能力へ変換する速度には限界があった。
+
+したがって本当の政策問題は、
+
+\[
+\boxed{
+\text{石油資産を、どの速度で、どの程度、国内の生産資産へ変換するか}
+}
+\]
+
+だった。
+
+速すぎればinflation、real appreciation、低収益投資、将来の債務につながる。
+
+遅すぎれば、戦後復興が遅れ、インフラ不足によってnon-oil private sectorの成長機会を失う。
+
+2007年Angola Article IVの面白さは、この二つのリスクを同時に記録している点にある。
