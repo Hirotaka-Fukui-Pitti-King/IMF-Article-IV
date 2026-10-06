@@ -79,7 +79,18 @@ IMF Country Report No. 25/62, *Angola: 2024 Article IV Consultation—Press Rele
 
 2024年は、2023年のdouble shockからgrowthが回復する一方、capital expenditure拡大、fuel subsidy reformの遅れ、non-oil revenueの弱さによって2018–21年EFFで構築したfiscal buffersが再び侵食され始めた局面を扱う。2027年選挙を前にしたpolitical cycle、high external debt service、central-bank financing、sovereign-bank nexus、FATF grey listing、import substitutionとfood inflation、Lobito Corridorが重要テーマである。
 
-## 2007・2015・2016・2018・2022・2023・2024を通じた読み方
+## 2026
+
+- [詳細解説](./2026-article-iv-detailed.md)
+- [要点をまとめた日本語記事](./2026-article-iv-summary.md)
+
+### 原資料
+
+IMF Country Report No. 26/94, *Angola: 2026 Article IV Consultation—Press Release; Staff Report; Informational Annex and Statement by the Executive Director for Angola*, May 2026.
+
+2026年は、oil production・oil revenuesの低下をtemporary shockではなくstructural trendとして捉え、Angolaがlower-oil economyへどうadjustするかを扱う。fiscal consolidationとFSLのcredibility、market-clearing rateへ向けたexchange-rate adjustment、tight monetary policy、2025 FSAP、sovereign-bank nexus、fuel subsidy reform、Sonangolとのquasi-fiscal relationship、financial inclusion、Lobito Corridorが中心テーマである。
+
+## 2007・2015・2016・2018・2022・2023・2024・2026を通じた読み方
 
 - **2007:** 石油収入が急増する中で、復興投資をどの速度で拡大するか。
 - **2015:** 石油収入が急減した後、財政・為替・外貨準備をどう調整するか。
@@ -88,5 +99,6 @@ IMF Country Report No. 25/62, *Angola: 2024 Article IV Consultation—Press Rele
 - **2022:** EFF終了後、高oil priceの局面でも改革を維持し、oil windfallをpro-cyclical spendingへ戻さず、debt reduction・targeted social protection・non-oil revenue・private-sector diversificationへ振り向けられるか。
 - **2023:** oil shockとdebt-service shockが同時に起きたとき、flexible exchange rate、fiscal rules、monetary framework、bank-resolution制度が実際にshock absorberとして機能し、政治的・社会的にも持続できるか。
 - **2024:** shockからgrowthが回復したときに、再びpolitical cycleとcapital-spending expansionへ戻らず、fiscal buffers、public-investment efficiency、non-oil revenue、private-sector-led diversificationを積み上げられるか。
+- **2026:** oil revenue declineをstructuralな前提として受け入れ、fiscal system、exchange rate、financial system、private sectorをlower-oil equilibriumへadjustできるか。
 
-七つの文書を通じた中心問題は、oil revenue volatilityからnon-oil economyをどこまで切り離せるか、そして危機時に導入した改革をnegative shock時だけでなく回復・選挙前の局面でも維持できる制度へ変えられるかである。
+八つの文書を通じた中心問題は、oil revenue volatilityへの短期対応から、oil依存そのものを減らす制度・産業・金融構造の転換へAngolaが移行できるかである。
