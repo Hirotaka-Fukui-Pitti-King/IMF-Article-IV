@@ -268,13 +268,13 @@ Board討議当日のStaff Statementは、Staff Report公表後の新情報を反
 
 重要なのは次の更新である。
 
-- 2007年oil production見込み: 736.7 million barrels → 626.6 million barrels。
-- 当局の2007年real GDP growth見込み: original budgetの31.2% → 19.8%。
-- revenue target: GDP比37.4% → 35.5%。
-- outlays: GDP比40.7% → 44.2%。
+- 2007年oil production見込みは736.7 million barrelsから626.6 million barrelsへ引き下げられた。
+- 当局の2007年real GDP growth見込みはoriginal budgetの31.2%から19.8%へ引き下げられた。
+- revenue targetはGDP比37.4%から35.5%へ引き下げられた。
+- outlaysはGDP比40.7%から44.2%へ引き上げられた。
 - capital budget: original budgetよりGDP比4 percentage points増。
 - revised budgetを完全実施すると、non-oil primary deficitはnon-oil GDP比75.4%まで拡大。
-- budget oil price assumption: US$45 → US$52/barrel。
+- budget oil price assumptionはUS$45/barrelからUS$52/barrelへ引き上げられた。
 - 7月inflationは約12%で、年末10%目標は維持。
 - broad money growthは6月時点で前年比約50%。
 
