@@ -177,15 +177,7 @@ staffは2018–21年のEFF-supported programで約7 percentage points of GDPのf
 
 これはかなり強い警告である。
 
-2024 Reportは、Angolaが再び
-
-\[
-\text{good times / political cycle}
-\rightarrow
-\text{higher spending}
-\]
-
-という以前のpatternへ戻りつつある可能性を指摘している。
+2024 Reportは、景気が良い局面やpolitical cycleの中でgovernment spendingを増やすという以前のpatternへAngolaが再び戻りつつある可能性を指摘している。
 
 ---
 
@@ -727,19 +719,7 @@ banksのgovernment debt holdingsは2023年の約20% of total assetsから2024年
 
 これはlocal-currency bondsとT-billsが中心である。
 
-government depositsが一部offsetするとはいえ、sovereign stressがbanksへ伝わり、banksのstressがcredit供給を通じてreal economyへ伝わる可能性が高まる。
-
-\[
-\text{sovereign stress}
-\rightarrow
-\text{bank balance sheets}
-\rightarrow
-\text{private credit}
-\rightarrow
-\text{real economy}
-\]
-
-というnexusである。
+government depositsが一部offsetするとはいえ、sovereign stressがbank balance sheetsを悪化させ、それがprivate creditの供給を弱め、最終的にreal economyへ波及する可能性が高まる。これがsovereign-bank nexusである。
 
 ---
 
