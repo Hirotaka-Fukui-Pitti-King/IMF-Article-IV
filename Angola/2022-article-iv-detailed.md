@@ -60,15 +60,7 @@ BNAはmarket forcesを基本とするflexible exchange rate regimeを維持し�
 
 2020年のCOVID shockではkwanzaが大幅にdepreciateし、それが外部shock absorberとして機能した。その後oil price recoveryに伴ってkwanzaは反転し、2022年には年末ベースで対ドル10%appreciateした。
 
-つまり、
-
-\[
-\text{oil shock}
-\rightarrow
-\text{exchange rate adjustment}
-\]
-
-を認める仕組みが、2016年のpeg + rationingから大きく変わった。
+つまり、外部からoil shockを受けたときにexchange rateそのものが調整することを認める仕組みへ移った点が、2016年のpegと外貨割当を組み合わせた制度からの大きな変化だった。
 
 staffはこのflexibilityを高く評価し、今後も維持しながら、interventionはindicator-based ruleでexcess volatilityだけを抑えるべきだとした。
 
@@ -82,19 +74,7 @@ public debtは2020年のGDP比138.4%をピークに、2021年83.6%、2022年66.1
 
 これは非常に大きな改善に見えるが、staffは主因としてstrong exchange-rate appreciationを挙げている。
 
-Angolaのpublic debtの4/5以上はforeign currency denominatedまたはFX-indexedである。
-
-そのため、
-
-\[
-\text{kwanza appreciation}
-\rightarrow
-\text{foreign-currency debtのkwanza換算額}\downarrow
-\rightarrow
-\frac{Debt}{GDP}\downarrow
-\]
-
-というvaluation effectが非常に大きい。
+Angolaのpublic debtの4/5以上はforeign currency denominatedまたはFX-indexedである。そのためkwanzaが上昇すると、外貨建て債務をkwanzaに換算した金額が小さくなり、それだけでpublic debt-to-GDP ratioを大きく押し下げる。このvaluation effectが非常に大きい。
 
 したがって2022年のdebt reductionをすべてfiscal consolidationの成果として読むのは誤りである。
 
@@ -108,15 +88,7 @@ Angolaのpublic debtの4/5以上はforeign currency denominatedまたはFX-index
 
 2021年のoverall fiscal balanceはGDP比3.8%のsurplusだったが、2022年には1.7%まで縮小した。
 
-より重要なのはnon-oil primary fiscal deficit（NOPFD）である。
-
-\[
--4.7\% \text{ of GDP in 2021}
-\rightarrow
--7.6\% \text{ in 2022}
-\]
-
-まで悪化した。
+より重要なのはnon-oil primary fiscal deficit（NOPFD）である。これは2021年のGDP比4.7%の赤字から、2022年には7.6%の赤字まで悪化した。
 
 主因は二つある。
 
@@ -130,25 +102,7 @@ capital spendingはbudgetを約60%上回った。2022年末または2023年に�
 
 oil priceが予想以上に上昇したため、fuel subsidy costはGDP比2.7%まで増えた。これは年初予測より0.9 percentage point高かった。
 
-つまりoil price上昇は、
-
-\[
-\text{oil revenue}\uparrow
-\]
-
-をもたらす一方、
-
-\[
-\text{fixed domestic fuel price}
-+
-\text{international fuel price}\uparrow
-\rightarrow
-\text{fuel subsidy cost}\uparrow
-\]
-
-も引き起こす。
-
-resource exporterで国内fuel pricesを固定していると、oil boomの一部が補助金コストとして消えるのである。
+つまりoil priceが上昇すると政府の石油収入は増える一方、国内燃料価格を固定していれば国際燃料価格との乖離も大きくなり、政府が負担するfuel subsidy costも増える。resource exporterで国内fuel pricesを固定していると、oil boomから得られる追加収入の一部が補助金コストとして相殺されるのである。
 
 ---
 
@@ -213,23 +167,7 @@ staffは、2023年にfuel subsidy reformを実施するにはKwenda expansionを
 
 当局はend-2022までにpoor households 100万世帯、最終的にend-2023までに130万世帯をtargetとしていた。
 
-ここで重要なのは、
-
-\[
-\text{fuel subsidy reform}
-\rightarrow
-\text{fiscal savings}
-\]
-
-だけではなく、
-
-\[
-\text{fuel prices}\uparrow
-\rightarrow
-\text{poor households' real income}\downarrow
-\]
-
-というdistributional channelを同時に扱っていることである。
+ここで重要なのは、fuel subsidy reformによって財政支出を節約できるという効果だけを見るのでは不十分だということである。補助金を削減して燃料価格が上がれば、特に低所得世帯の実質所得が低下するため、このdistributional channelを同時に扱う必要がある。
 
 ---
 
@@ -337,19 +275,7 @@ Angolaのpublic debtの4/5以上がforeign currency denominatedまたはindexed�
 
 これは2022年のkwanza appreciation時にはdebt ratioを急速に改善させた。
 
-しかし同じstructureは、
-
-\[
-\text{oil price decline}
-\rightarrow
-\text{kwanza depreciation}
-\rightarrow
-\text{FX debt valuation}\uparrow
-\rightarrow
-\text{public debt ratio}\uparrow
-\]
-
-というamplification mechanismを作る。
+しかし同じstructureは逆方向にも働く。oil priceが低下してkwanzaが下落すると、外貨建て債務の国内通貨換算額が増え、その結果public debt ratioも上昇する。このため、外貨建て債務の比率が高いこと自体がoil shockを増幅する仕組みになっている。
 
 そのためstaffは、2022年のdebt improvementを見てもcurrency composition riskは解消されていないと考えた。
 
@@ -375,15 +301,7 @@ EBA-liteのcurrent-account modelでは、adjusted CAは8.9% of GDP、CA normは2
 
 しかしstaffは、そのcurrent-account surplusの一部がlarge net private savings、つまり国内private investmentの弱さを反映していると指摘した。
 
-したがって、
-
-\[
-\text{large CA surplus}
-\neq
-\text{always healthy}
-\]
-
-である。
+したがって、大きなcurrent-account surplusが常に健全な経済状態を意味するわけではない。
 
 oil revenueが高いのに国内投資機会やbusiness environmentが弱ければ、所得が国内investmentに回らずexternal surplusとして現れる。
 
@@ -502,19 +420,7 @@ private credit-to-GDPはSSAでも最も低い水準の一つだった。
 
 staffは原因を、informality、weak private-sector capacity、banksのlarge sovereign exposure、weak problem banks、institutional constraintsの組み合わせとしている。
 
-したがってdiversificationには、
-
-\[
-\text{business opportunity}
-\rightarrow
-\text{bankable project}
-\rightarrow
-\text{credit access}
-\rightarrow
-\text{private investment}
-\]
-
-というfinance channelを作る必要がある。
+したがってdiversificationには、企業が事業機会を実際の投資計画に変え、その計画が銀行から融資可能だと評価され、必要なcreditを得てprivate investmentを実行できるようにするfinance channelが必要である。
 
 当局側はBDAが管理するNational Development Fundから2023年以降63億ドルのcredit lineを農業・grain production・livestock・fisheriesなどへ供給する構想を示した。
 
@@ -582,19 +488,7 @@ staffはclimate-resilient economyの重点として、water resource management�
 
 しかしpublic debt vulnerabilityが高いAngolaでは、これらへのinvestmentを単に追加借入で行うことは難しい。
 
-したがってclimate policyも、
-
-\[
-\text{non-oil revenue mobilization}
-+
-\text{fuel subsidy reform}
-+
-\text{spending efficiency}
-+
-\text{private finance}
-\]
-
-と結びつく。
+したがってclimate policyも単独では実施できず、non-oil revenue mobilization、fuel subsidy reform、spending efficiencyの改善、private financeの動員と組み合わせて財源を確保する必要がある。
 
 当局はESG bond issuanceも検討していた。
 
@@ -652,7 +546,7 @@ Board討議直前のStaff Supplementでは二つのupdateがあった。
 
 ---
 
-## 36. 2007 → 2015 → 2016 → 2018 → 2022
+## 36. 2007年から2022年までの流れ
 
 5時点を並べると、Angolaのmacro policyの変化がかなり明瞭になる。
 
@@ -671,32 +565,6 @@ oil-price collapseに対して、財政・為替・reserveをどう調整する�
 ### 2022
 EFFとpandemicを乗り越えて得たmacro stabilityを、再び高oil priceのpro-cyclical spendingで失わず、post-program regimeとして定着させられるか。
 
-したがって2022 Article IVのcruxは、
-
-\[
-\boxed{
-\text{oil windfall}
-\rightarrow
-\text{new spending}
-}
-\]
-
-という古いcycleを、
-
-\[
-\boxed{
-\text{oil windfall}
-\rightarrow
-\text{debt reduction / buffers}
-+
-\text{targeted social protection}
-+
-\text{non-oil tax base}
-+
-\text{private-sector diversification}
-}
-\]
-
-へ本当に変えられるか、である。
+したがって2022 Article IVのcruxは、oil windfallが生じるたびに新しい政府支出を増やすという従来のcycleから脱却できるか、という点にある。staffが望んだのは、追加的な石油収入を債務削減と財政・外貨バッファーの積み増しに使いながら、targeted social protectionを整備し、non-oil tax baseを広げ、private-sector diversificationにつなげる政策運営へ移ることである。
 
 2018年には「正しい制度改革を始められるか」が問題だった。2022年には、その制度改革がIMF program終了後もpolitically and institutionally durableかどうかが問われている。
