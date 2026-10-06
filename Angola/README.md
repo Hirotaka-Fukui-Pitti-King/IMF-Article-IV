@@ -2,6 +2,12 @@
 
 Angola の IMF Article IV Consultation と関連する historical background documents の解説。
 
+## 統合レポート
+
+- [アンゴラ経済の長期的変容――内戦経済、石油ブーム、危機、制度改革、そして「石油が縮小する経済」へ](./angola-economic-history-1990s-2026.md)
+
+この統合レポートは、1995年から2026年までに本フォルダで整理したRecent Economic Developments、Statistical Annex、Article IV Consultation、Selected Issues、Post-Program Monitoring、EFF関連資料を横断し、Angola経済を一つの長期的な流れとして再構成したものである。civil warによるnon-oil productive capacityとstate capacityの崩壊、post-war oil boom、Hard Kwanza、2009 crisis、medium-term fiscal framework、2014–16 oil-price shock、2018–21 EFF reforms、post-EFF fiscal and exchange-rate stress、2020年代のfuel-subsidy reform、financial-sector reform、AfCFTA、Lobito Corridor、2026年に前面化したstructural oil-production declineまでを扱う。
+
 ## 1995
 
 - [詳細解説](./1995-recent-economic-developments-detailed.md)
