@@ -58,17 +58,7 @@ agriculture、manufacturing、commerce、diamond sectorが支えた。
 
 理由は2026 budgetによるexpenditure restraintである。
 
-つまり、
-
-\[
-\text{fiscal consolidation}
-\rightarrow
-\text{lower short-run demand}
-\rightarrow
-\text{slower GDP growth}
-\]
-
-というcostをstaffは明示的に認めている。
+つまりstaffは、fiscal consolidationがshort-run demandを弱め、その結果としてGDP growthを一時的に押し下げるcostを明示的に認めている。
 
 しかしmedium termではnon-oil growthを中心に3.1%程度まで回復すると予測する。
 
@@ -223,13 +213,7 @@ fuel subsidy spendingは約1.7% of GDP残った。
 
 これは2023–25年を通じて繰り返されたpatternである。
 
-\[
-\text{pump-price increase}
-\not\Rightarrow
-\text{budget saving as projected}
-\]
-
-because international prices、exchange rate、fuel demand、implementationが同時に動くからである。
+pump pricesを引き上げても、projectionどおりのbudget savingが必ず実現するわけではない。international prices、exchange rate、fuel demand、implementationが同時に動くためである。
 
 ---
 
@@ -698,15 +682,7 @@ multiple currency practicesとして、
 
 staffのrecommendationは非常に明確である。
 
-exchange-rate flexibilityを高め、
-
-\[
-\text{official exchange rate}
-\rightarrow
-\text{market-clearing rate}
-\]
-
-へfull and durable alignmentさせるべきとする。
+exchange-rate flexibilityを高め、official exchange rateをmarket-clearing rateへfull and durableにalignさせるべきとする。
 
 単なるone-off devaluationではなく、
 
@@ -727,23 +703,7 @@ authoritiesもflexibilityの必要性自体は認める。
 
 ただしpass-throughによるinflation再加速を懸念する。
 
-このためstaffのpolicy mixではmonetary tighteningをexchange-rate adjustmentと組み合わせる。
-
-つまり、
-
-\[
-\text{FX adjustment}
-\rightarrow
-\text{temporary inflation}
-\]
-
-を、
-
-\[
-\text{tight monetary policy}
-\]
-
-でsecond-round inflationへ波及させない設計である。
+このためstaffのpolicy mixではmonetary tighteningをexchange-rate adjustmentと組み合わせる。FX adjustmentによって一時的にinflationが上昇しても、tight monetary policyによってsecond-round inflationへ波及させない設計である。
 
 ---
 
@@ -853,17 +813,7 @@ banksのassetsの30%以上がgovernment claimsである。
 
 これはregionでも特に高い水準である。
 
-government financing needsが増えるほどbanksがgovernment securitiesを保有し、
-
-\[
-\text{government borrowing}
-\rightarrow
-\text{bank portfolio crowding}
-\rightarrow
-\text{private credit constraint}
-\]
-
-が強くなる。
+government financing needsが増えるほどbanksはgovernment securitiesを多く保有し、その結果bank portfoliosがgovernment financingに偏ってprivate creditへの資金供給が制約されやすくなる。
 
 Angolaではfiscal sustainabilityとfinancial deepeningが同じ問題になっている。
 
@@ -942,19 +892,7 @@ Angolaのspreadを説明する主要domestic factorsは、
 
 特にgood governanceは他のdomestic / global factorsと比べてもspread reductionへのimpactが大きいとされる。
 
-これはgovernance reformを「長期成長」の話だけでなく、
-
-\[
-\text{governance}
-\rightarrow
-\text{sovereign spread}
-\rightarrow
-\text{debt service}
-\rightarrow
-\text{fiscal space}
-\]
-
-という短中期macro mechanismへ結びつけている。
+これはgovernance reformを「長期成長」の話だけでなく、governanceの改善がsovereign spreadを低下させ、debt service burdenを軽くし、その分fiscal spaceを広げるという短中期macro mechanismへ結びつけている。
 
 ---
 
