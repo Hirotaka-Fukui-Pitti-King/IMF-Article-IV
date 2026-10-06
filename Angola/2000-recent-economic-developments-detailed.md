@@ -753,7 +753,7 @@ inflationは再加速し、commitment deficitは大きく、domestic and externa
 
 ---
 
-## 59. 1995 → 1997 → 1999 → 2000
+## 59. 1995年から2000年までの変化
 
 ### 1995
 war finance、hyperinflation、external arrearsの中でpeace economyへ移れるかが問題だった。
