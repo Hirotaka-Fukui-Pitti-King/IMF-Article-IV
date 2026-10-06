@@ -236,11 +236,7 @@ banksはgovernment securitiesをさらに保有する。
 
 するとprivate sector lendingがcrowd outされる。
 
-したがってoil shockは、
-
-**oil revenue decline → fiscal deficit → domestic borrowing → private credit decline → non-oil growth slowdown**
-
-というchannelでも伝わる。
+したがってoil shockは、oil revenueの減少によってfiscal deficitを拡大させ、government domestic borrowingを増やし、その結果private creditを圧迫してnon-oil growthを弱めるというchannelでも伝わる。
 
 ## public debtは51.3%まで低下した
 
@@ -423,11 +419,7 @@ Selected Issues analysisでは、Angolaのsovereign spreadsを説明する要因
 
 特にgovernance improvementはspread reductionへのimpactが大きい。
 
-つまりgovernance reformは抽象的な制度論ではなく、
-
-**governance improvement → lower sovereign spread → lower debt service → more fiscal space**
-
-という具体的なmacro mechanismを持つ。
+つまりgovernance reformは抽象的な制度論ではない。governanceが改善すればsovereign spreadが低下し、debt service burdenが軽くなり、その分だけfiscal spaceが広がる可能性があるという具体的なmacro mechanismを持つ。
 
 ## Lobito Corridorへのcommitmentは$10 billion超
 
@@ -466,13 +458,4 @@ staffもauthoritiesもexport diversification、FDI、connectivity、private-sect
 
 2026年には、oilが縮小していくことを前提にeconomyそのものを作り替えなければならない。
 
-したがって2026 Article IVのcentral questionは、
-
-\[
-\boxed{
-\text{Angolaは「oil economyを安定化する」段階から、
-「oilが縮小するeconomyを再設計する」段階へ移れるか}
-}
-\]
-
-である。
+したがって2026 Article IVのcentral questionは、Angolaが「oil economyを安定化する」段階から、「oilが縮小するeconomyを再設計する」段階へ移れるか、という点にある。
