@@ -57,6 +57,17 @@ IMF Country Report No. 03/291, *Angola: 2003 Article IV Consultation—Staff Rep
 
 2003年は、2002年4月の27年間に及ぶcivil war終結後、Angolaが本格的なpost-conflict economyへ移った最初のArticle IVである。15%を超えるgrowthとdeep-water oil boomが始まる一方、three-digit inflation、large fiscal deficit、external arrears、low reserves、oil-backed borrowing、Sonangolのquasi-fiscal operations、BNAのweak controlsが残った。oil revenue transparency、unified budget、Treasury reform、poverty reduction、reconstruction、SMPへの移行が中心テーマである。
 
+## 2003 Selected Issues and Statistical Appendix
+
+- [詳細解説](./2003-selected-issues-statistical-appendix-detailed.md)
+- [要点をまとめた日本語記事](./2003-selected-issues-statistical-appendix-summary.md)
+
+### 原資料
+
+IMF Country Report No. 03/292, *Angola: Selected Issues and Statistical Appendix*, September 2003.
+
+2003 Article IVのcompanion volumeであり、inflationのeconometric analysis、BNAのquasi-fiscal operationsとoperational deficit、international reserve adequacy、fuel・electricity・water subsidies、Production-Sharing AgreementsとSonangolを通じるstate oil revenue flowsを詳細に分析する。後半には1998–2002年を中心とするStatistical Appendixが付く。2003 Article IVが提示したtransparency、central-bank reform、reserve accumulation、subsidy reform、Sonangol governanceの必要性をmechanismとdataから説明する資料として位置づける。
+
 ## 2007
 
 - [詳細解説](./2007-article-iv-detailed.md)
