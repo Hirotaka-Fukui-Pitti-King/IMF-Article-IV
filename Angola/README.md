@@ -68,13 +68,25 @@ IMF Country Report No. 24/80, *Angola: 2023 Article IV Consultation—Press Rele
 
 2023年は、oil production・oil priceの弱まりとdebt moratorium終了というdouble shockにより、2018年以降に構築したpolicy frameworkが初めて本格的なstress testを受けた局面を扱う。kwanza depreciation、fuel subsidy reform、inflation再加速、public debt上昇、FX market fragmentation、bank resolution、NDP 2023–27、fiscal anchor再評価、climate adaptationのDIGNAD分析が中心テーマである。
 
-## 2007・2015・2016・2018・2022・2023を通じた読み方
+## 2024
+
+- [詳細解説](./2024-article-iv-detailed.md)
+- [要点をまとめた日本語記事](./2024-article-iv-summary.md)
+
+### 原資料
+
+IMF Country Report No. 25/62, *Angola: 2024 Article IV Consultation—Press Release; Staff Report; and Statement by the Executive Director for Angola*, March 2025.
+
+2024年は、2023年のdouble shockからgrowthが回復する一方、capital expenditure拡大、fuel subsidy reformの遅れ、non-oil revenueの弱さによって2018–21年EFFで構築したfiscal buffersが再び侵食され始めた局面を扱う。2027年選挙を前にしたpolitical cycle、high external debt service、central-bank financing、sovereign-bank nexus、FATF grey listing、import substitutionとfood inflation、Lobito Corridorが重要テーマである。
+
+## 2007・2015・2016・2018・2022・2023・2024を通じた読み方
 
 - **2007:** 石油収入が急増する中で、復興投資をどの速度で拡大するか。
 - **2015:** 石油収入が急減した後、財政・為替・外貨準備をどう調整するか。
 - **2016:** 大幅な調整をすでに行った後、growthを傷つけすぎずに残存するmacro imbalanceをどう解消するか。
-- **2018:** 2017年のpolicy reversalで失ったbuffersを、新政権がmarket-basedな為替、fiscal anchor、bank restructuring、governance reformを通じて再構築できるか。
-- **2022:** EFF終了後、高oil priceの局面で改革を維持し、oil windfallを再びpro-cyclical spendingへ戻さず、debt reduction・targeted social protection・non-oil revenue・private-sector diversificationへ振り向けられるか。
+- **2018:** 2017年のpolicy reversalで失われたbuffersを、新政権がmarket-basedな為替、fiscal anchor、bank restructuring、governance reformを通じて再構築できるか。
+- **2022:** EFF終了後、高oil priceの局面でも改革を維持し、oil windfallをpro-cyclical spendingへ戻さず、debt reduction・targeted social protection・non-oil revenue・private-sector diversificationへ振り向けられるか。
 - **2023:** oil shockとdebt-service shockが同時に起きたとき、flexible exchange rate、fiscal rules、monetary framework、bank-resolution制度が実際にshock absorberとして機能し、政治的・社会的にも持続できるか。
+- **2024:** shockからgrowthが回復したときに、再びpolitical cycleとcapital-spending expansionへ戻らず、fiscal buffers、public-investment efficiency、non-oil revenue、private-sector-led diversificationを積み上げられるか。
 
-六つの文書を通じた中心問題は、oil revenue volatilityからnon-oil economyをどこまで切り離せるか、そして危機時に導入した改革を好況時だけでなく新たなnegative shockの下でも機能する制度へ変えられるかである。
+七つの文書を通じた中心問題は、oil revenue volatilityからnon-oil economyをどこまで切り離せるか、そして危機時に導入した改革をnegative shock時だけでなく回復・選挙前の局面でも維持できる制度へ変えられるかである。
