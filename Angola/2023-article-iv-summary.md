@@ -32,11 +32,7 @@ non-oil sectorは2.9%成長したが、construction、transport、servicesなど
 
 TreasuryはAngolaの主要なforeign-exchange supplierの一つである。external debt repaymentへドルを回せば、domestic FX marketへ供給できるドルが減る。
 
-そのため、
-
-**debt service増加 → FX supply減少 → kwanza depreciation**
-
-というchannelが生じた。
+そのため、debt serviceが増えると国内FX marketへ供給できる外貨が減り、その結果としてkwanzaへのdepreciation pressureが強まるというchannelが生じた。
 
 2023年はpublic debtとexchange rateが非常に直接的に結びついた年だった。
 
@@ -88,11 +84,7 @@ staffが強調したのはmonetary transmissionである。
 
 interbank rateがpolicy rateから大きく乖離し、banking systemにexcess liquidityが残れば、announced policy tighteningが実際のfinancial conditionsへ伝わらない。
 
-そのため、
-
-**policy rate → interbank rate → lending conditions → inflation expectations**
-
-というchannelを作る必要がある。
+そのため、policy rateの変更がinterbank rateへ波及し、さらにbank lending conditionsやinflation expectationsへ伝わるtransmission mechanismを強める必要がある。
 
 ここではBNAとMinistry of Financeのcoordinationも重要になる。
 
