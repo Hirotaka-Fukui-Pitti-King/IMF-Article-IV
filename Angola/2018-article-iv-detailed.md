@@ -416,7 +416,7 @@ Executive Director Statementでも当局はstaff appraisalにbroadly concurし�
 
 ---
 
-## 24. 2007 → 2015 → 2016 → 2018
+## 24. 2007年から2018年までの流れ
 
 この4時点を並べるとAngolaのpolicy cycleが見える。
 
