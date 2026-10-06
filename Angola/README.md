@@ -22,11 +22,23 @@ IMF Country Report No. 07/354, *Angola: 2007 Article IV Consultation—Staff Rep
 
 IMF Country Report No. 15/301, *Angola: 2015 Article IV Consultation—Press Release; Staff Report; and Statement by the Executive Director for Angola*, November 2015.
 
-2015年は、2014年半ば以降の急激な油価下落によって、財政収入・外貨供給・為替・銀行部門が同時に調整を迫られた局面を扱う。Staff Report、Press Release / Executive Board Assessment、Debt Sustainability Analysis、Informational Annex、Executive Director statementを区別して整理している。
+2015年は、2014年半ば以降の急激な油価下落によって、財政収入・外貨供給・為替・銀行部門が同時に調整を迫られた局面を扱う。
 
-## 2007 → 2015 の読み方
+## 2016
 
-- **2007:** oil windfallをどの速度で国内投資へ変換するか。
-- **2015:** lower oil revenueにどの速度で適応するか。
+- [詳細解説](./2016-article-iv-detailed.md)
+- [要点をまとめた日本語記事](./2016-article-iv-summary.md)
 
-両年を通じた中心問題は、oil revenue volatilityからnon-oil economyをどこまで切り離せるかである。
+### 原資料
+
+IMF Country Report No. 17/39, *Angola: 2016 Article IV Consultation—Press Release; Staff Report; and Statement by the Executive Director for Angola*, February 2017.
+
+2016年は、二年間の大規模な財政・為替調整後も、成長停滞、高インフレ、深刻な外貨不足、銀行部門の弱さが残った局面を扱う。特に、2017年の財政スタンスと為替制度の調整速度をめぐるIMF staffとAngolan authoritiesの違いを詳しく整理している。
+
+## 2007・2015・2016を通じた読み方
+
+- **2007:** 石油収入が急増する中で、復興投資をどの速度で拡大するか。
+- **2015:** 石油収入が急減した後、財政・為替・外貨準備をどう調整するか。
+- **2016:** 大幅な調整をすでに行った後、growthを傷つけすぎずに残存するmacro imbalanceをどう解消するか。
+
+三つの文書を通じた中心問題は、oil revenue volatilityからnon-oil economyをどこまで切り離せるか、そして大きな外部ショックの後に各政策をどの順番で調整するかである。
