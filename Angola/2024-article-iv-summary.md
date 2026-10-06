@@ -90,11 +90,7 @@ staffはcompetitionとinput accessを重視し、authoritiesはdomestic producti
 
 しかし2022 election-year looseningと2023–24の弱いadjustmentによって、そのうち約5.5 percentage pointsが失われた。
 
-staffが警戒しているのは、Angolaが再び、
-
-**recovery / political cycle → more spending**
-
-という古いpatternへ戻ることである。
+staffが警戒しているのは、景気回復やpolitical cycleを理由に再び支出を拡大するという古いpatternへAngolaが戻ることである。
 
 ## 2027 electionがすでにmacro riskになっている
 
@@ -372,30 +368,6 @@ staffが最も懸念しているのは、growth recoveryそのものではない
 
 その回復を理由にcapital spendingを増やし、fuel subsidy reformやrevenue reformを遅らせ、2027 electionへ向けて再びpro-cyclical fiscal policyへ戻ることである。
 
-したがって2024 Article IVの核心は、
-
-\[
-\boxed{
-\text{growth recovery}
-\rightarrow
-\text{more spending}
-}
-\]
-
-ではなく、
-
-\[
-\boxed{
-\text{growth recovery}
-\rightarrow
-\text{buffers}
-+
-\text{better public investment}
-+
-\text{non-oil revenue}
-+
-\text{private investment}
-}
-\]
+したがって2024 Article IVの核心は、growth recoveryをそのまま追加支出へつなげるのではなく、回復局面をbuffersの再構築、より質の高いpublic investment、non-oil revenueの強化、private investmentの拡大に利用できるかどうかにある。
 
 へ移れるかどうかである。
