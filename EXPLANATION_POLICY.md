@@ -17,35 +17,11 @@ Article IV の公表パッケージには複数の文書が含まれる。原則
 
 ## 2. 解説の中心は economic mechanism に置く
 
-数値を並べるだけでなく、原資料が想定している因果メカニズムを明示する。特に資源国では、
+数値を並べるだけでなく、原資料が想定している因果メカニズムを文章で明示する。特に資源国では、資源収入の増加が政府支出や国内流動性を押し上げ、それがインフレや実質為替レートの上昇を通じて非資源貿易財部門の競争力を弱め、最終的には将来の税収基盤、外貨獲得力、債務持続可能性に影響しうる、という一連の仕組みを確認する。
 
-\[
-\text{resource revenue boom}
-\rightarrow
-\text{public spending / liquidity}
-\rightarrow
-\text{inflation・real appreciation}
-\rightarrow
-\text{non-resource tradables の競争力}
-\rightarrow
-\text{将来の税収・外貨獲得力・債務持続可能性}
-\]
+同時に、戦後復興国では、公共投資によってインフラや人的資本が改善し、それが民間部門の生産性を高めて非資源部門の成長につながる可能性もある。このため、**「支出を増やすか減らすか」ではなく、吸収能力、投資収益率、輸入比率、制度能力、実施速度を含むトレードオフ**として説明する。
 
-という連鎖を確認する。
-
-同時に、戦後復興国では、
-
-\[
-\text{public investment}
-\rightarrow
-\text{infrastructure・human capital}
-\rightarrow
-\text{private-sector productivity}
-\rightarrow
-\text{non-resource growth}
-\]
-
-という反対方向の便益もあるため、**「支出を増やすか減らすか」ではなく、吸収能力、投資収益率、輸入比率、制度能力、実施速度を含むトレードオフ**として説明する。
+因果関係、政策トレードオフ、比較、結論を示す際には、矢印、数式風の連鎖、boxed expression などの擬似数式は使わず、原則として完全な文章で書く。数式は、原資料に実際の数式・定義があり、それを説明する必要がある場合に限って使う。
 
 ## 3. staff と当局の争点を明示する
 
